@@ -1,0 +1,173 @@
+<quiz>
+    <question>
+        <text>Care este cel mai lung fluviu din Europa?</text>
+        <option>A. Dunarea</option>
+        <option>B. Volga</option>
+        <option>C. Nil</option>
+        <correct>B</correct>
+    </question>
+
+    <question>
+        <text>In ce tara s-a nascut Adolf Hitler?</text>
+        <option>A. Austria</option>
+        <option>B. Polonia</option>
+        <option>C. Germania</option>
+        <option>D. Israel</option>
+        <correct>A</correct>
+    </question>
+
+    <question>
+        <text>Cand a avut loc Primul Razboi Mondial?</text>
+        <option>A. 1916-1918</option>
+        <option>B. 1939-1945</option>
+        <option>C. 1914-1918</option>
+        <correct>C</correct>
+    </question>
+
+    <question>
+        <text>Cine a scris "Enigma Otiliei"?</text>
+        <option>A. Marin Preda</option>
+        <option>B. William Shakespeare</option>
+        <option>C. George Calinescu</option>
+        <option>D. Calin Georgescu</option>
+        <correct>C</correct>
+    </question>
+
+    <question>
+        <text>Ce poet a scris poezia "Plumb"?</text>
+        <option>A. George Bacovia</option>
+        <option>B. Mihai Eminescu</option>
+        <option>C. Ion Creanga</option>
+        <correct>A</correct>
+    </question>
+</quiz>
+<!-- 
+    <question>
+        <text>Cat dureaza pauza unui meci de fotbal?</text>
+        <option>A. 20 minute</option>
+        <option>B. 30 secunde</option>
+        <option>C. o ora</option>
+        <option>D. 15 minute</option>
+        <correct>D</correct>
+    </question>
+
+    <question>
+        <text>Cate zile are un an bisect?</text>
+        <option>A. 360</option>
+        <option>B. 366</option>
+        <option>C. 365</option>
+        <option>D. 364</option>
+        <correct>B</correct>
+    </question>
+
+    <question>
+        <text>Cine a exclamat Evrika?</text>
+        <option>A. Arhimede</option>
+        <option>B. Aristotel</option>
+        <option>C. Platon</option>
+        <correct>A</correct>
+    </question>
+
+    <question>
+        <text>Care este formula chimica a apei?</text>
+        <option>A. H2O</option>
+        <option>B. HCl</option>
+        <option>C. NaCl</option>
+        <correct>A</correct>
+    </question>
+
+    <question>
+        <text>Cati ani are un deceniu?</text>
+        <option>A. 3</option>
+        <option>B. 10</option>
+        <option>C. 11</option>
+        <option>D. 100</option>
+        <correct>B</correct>
+    </question>
+
+    <question>
+        <text>Din ce este facuta peria din par de camila?</text>
+        <option>A. par de pisica</option>
+        <option>B. par de camila</option>
+        <option>C. par de veverita</option>
+        <option>D. par de caine</option>
+        <correct>C</correct>
+    </question>
+
+    <question>
+        <text>Ce culoare are cutia neagra a unui avion?</text>
+        <option>A. negru</option>
+        <option>B. albastru</option>
+        <option>C. verde</option>
+        <option>D. portocaliu</option>
+        <correct>D</correct>
+    </question>
+
+    <question>
+        <text>In ce se transforma omizile cand se dezvolta?</text>
+        <option>A. musca</option>
+        <option>B. rama</option>
+        <option>C. fluture</option>
+        <correct>C</correct>
+    </question>
+
+    <question>
+        <text>Care este singurul continent pe care nu traiesc ursi?</text>
+        <option>A. Atlantida</option>
+        <option>B. Antarctica</option>
+        <option>C. Groenlanda</option>
+        <correct>B</correct>
+    </question>
+
+    <question>
+        <text>Ce planeta este cunoscuta drept "Planeta Rosie"?</text>
+        <option>A. Marte</option>
+        <option>B. Jupiter</option>
+        <option>C. Saturn</option>
+        <option>D. Pamant</option>
+        <correct>A</correct>
+    </question>
+
+    <question>
+        <text>In ce an a cazut Zidul Berlinului?</text>
+        <option>A. 1990</option>
+        <option>B. 1989</option>
+        <option>C. 1991</option>
+        <correct>B</correct>
+    </question>
+
+    <question>
+        <text>Cine a pictat Mona Lisa?</text>
+        <option>A. Vincent van Gogh</option>
+        <option>B. Pablo Picasso</option>
+        <option>C. Pablo Escobar</option>
+        <option>D. Leonardo da Vinci</option>
+        <correct>D</correct>
+    </question>
+
+    <question>
+        <text>Care este cel mai mare ocean de pe Pamant?</text>
+        <option>A. Indian</option>
+        <option>B. Atlantic</option>
+        <option>C. Pacific</option>
+        <correct>C</correct>
+    </question>
+
+    <question>
+        <text>Care este limba oficiala in Brazilia?</text>
+        <option>A. Spaniola</option>
+        <option>B. Portugheza</option>
+        <option>C. Braziliana</option>
+        <option>D. Engleza</option>
+        <correct>B</correct>
+    </question>
+
+    <question>
+        <text>Care este cel mai lung rau din lume?</text>
+        <option>A. Dunarea</option>
+        <option>B. Volga</option>
+        <option>C. Prut</option>
+        <option>D. Nil</option>
+        <correct>D</correct>
+    </question>
+</quiz>  -->
